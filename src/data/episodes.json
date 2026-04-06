@@ -1,0 +1,79 @@
+{
+  "episodes": [
+    {
+      "id": "ep-001",
+      "youtubeId": "VIDEO_ID_HERE",
+      "title": "Episode 1: The Beginning - Why Yakira Exists",
+      "description": "Yvonne shares the divine calling that led to Yakira Kids Network and introduces the mission to support Africa's displaced children.",
+      "publishDate": "2026-01-27",
+      "duration": "12:34",
+      "tags": ["Faith", "Leadership", "Community"],
+      "impactMetrics": {
+        "childrenReached": 0,
+        "lessonsShared": 1,
+        "milestone": "Official Launch - Yakira Goes Live"
+      },
+      "featured": true
+    },
+    {
+      "id": "ep-002",
+      "youtubeId": "VIDEO_ID_HERE",
+      "title": "Episode 2: Meet Pastor Johnson - Spiritual Foundation",
+      "description": "Pastor Johnson explains the spiritual pillar and how faith shapes everything we do at Yakira.",
+      "publishDate": "2026-02-03",
+      "duration": "15:22",
+      "tags": ["Faith", "Spiritual Foundation", "Leadership"],
+      "impactMetrics": {
+        "childrenReached": 25,
+        "lessonsShared": 3,
+        "milestone": "First Bible Study Session"
+      },
+      "featured": false
+    },
+    {
+      "id": "ep-003",
+      "youtubeId": "VIDEO_ID_HERE",
+      "title": "Episode 3: First Meal Program - Feeding Hope",
+      "description": "Watch as we serve the first meals through the Monthly Sustenance Program in Rwanda.",
+      "publishDate": "2026-02-10",
+      "duration": "10:45",
+      "tags": ["Monthly Sustenance", "Community", "Impact"],
+      "impactMetrics": {
+        "childrenReached": 50,
+        "lessonsShared": 5,
+        "milestone": "500 Meals Served"
+      },
+      "featured": false
+    },
+    {
+      "id": "ep-004",
+      "youtubeId": "VIDEO_ID_HERE",
+      "title": "Episode 4: Education for All - Scholarships in Kenya",
+      "description": "Discover how your support is putting uniforms on children and pencils in their hands.",
+      "publishDate": "2026-02-17",
+      "duration": "14:10",
+      "tags": ["Education", "Impact", "Community"],
+      "impactMetrics": {
+        "childrenReached": 120,
+        "lessonsShared": 8,
+        "milestone": "100 Scholarships Awarded"
+      },
+      "featured": false
+    },
+    {
+      "id": "ep-005",
+      "youtubeId": "VIDEO_ID_HERE",
+      "title": "Episode 5: Creative Skills Hub - Launch Day",
+      "description": "Watch the excitement as we open our first Creative Skill Hub for digital learning and arts.",
+      "publishDate": "2026-02-24",
+      "duration": "11:55",
+      "tags": ["Creativity", "STEM", "Education"],
+      "impactMetrics": {
+        "childrenReached": 150,
+        "lessonsShared": 12,
+        "milestone": "Skill Hub #1 Open"
+      },
+      "featured": true
+    }
+  ]
+}
