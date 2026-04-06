@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Yakira Kids Network
 
-## Getting Started
+Yakira is a professional web application built to empower Africa's displaced children through holistic care and vocational skill-building. This project is built with Next.js 14 and a custom-tailored design system using Tailwind CSS.
 
-First, run the development server:
+## 🚀 Getting Started
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Follow these instructions to set up the project on your local development machine.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Prerequisites
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Node.js**: Version 18.17.0 or higher.
+- **npm**: Version 9.x or higher (standard with Node.js).
+- **Git**: For version control.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Installation
 
-## Learn More
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yakirakidsnetwork/Yakira.git
+   cd Yakira
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. **Install dependencies**:
+   This project uses a specific `.npmrc` configuration to ensure compatible dependency resolution. Use standard `npm install`:
+   ```bash
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. **View the application**:
+   Open [http://localhost:3000](http://localhost:3000) in your browser to see the results.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Project Structure
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- `src/app`: Routing and layouts (App Router).
+- `src/components`: UI components (Organized into `ui`, `layout`, and `sections`).
+- `src/lib`: Shared utility functions.
+- `src/data`: Static content and mock data.
+
+## 🎨 Design System
+
+We use a custom theme based on Tailwind CSS. Key brand colors include:
+- **African Earth**: Primary branding.
+- **Hope Orange**: Highlight and Call-to-Action.
+- **Inter & Poppins**: Primary font families.
+
+## 📄 Scripts
+
+- `npm run dev`: Starts the local development server.
+- `npm run build`: Creates a production-ready build.
+- `npm run start`: Runs the built production application.
+- `npm run lint`: Performs linting checks.
+
+## 🌐 Deployment
+
+The application is optimized for deployment on [Vercel](https://vercel.com). Any pushes to the `main` branch will trigger an automatic deployment.
+
+---
+© 2026 Yakira Kids Network. All Rights Reserved.
